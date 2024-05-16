@@ -1,9 +1,9 @@
 # Statement
 This file is the code for the final project of the ECE 1782 course. This is a group collaboration project, and the members of the group are:
 
-Runheng Lu
-Yiming Zheng
-Jingsheng Zhang
+Runheng Lu, 
+Yiming Zheng, 
+Jingsheng Zhang, 
 Dengsong Wang
 
 # Project Overview
